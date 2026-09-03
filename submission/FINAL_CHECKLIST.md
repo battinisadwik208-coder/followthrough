@@ -12,11 +12,11 @@
 
 ## Repository
 
-- [ ] Create public GitHub repository
-- [ ] Push all source files and sample data
-- [ ] Confirm README displays correctly
-- [ ] Confirm Mermaid architecture diagram renders
-- [ ] Confirm GitHub detects MIT license in the About section
+- [x] Create public GitHub repository
+- [x] Push all source files and sample data
+- [x] Confirm README displays correctly
+- [x] Confirm Mermaid architecture diagram renders
+- [x] Confirm GitHub detects MIT license in the About section
 - [ ] Add repository URL to Devpost
 
 ## Devpost
