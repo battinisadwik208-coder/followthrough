@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# AWS credentials and environment files
+.env
+.env.*
+.aws/
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Editor files
+.vscode/
+.idea/
