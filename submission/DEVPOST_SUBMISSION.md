@@ -55,6 +55,6 @@ Post-hackathon, FollowThrough can add Gmail ingestion, Google Calendar freebusy 
 
 ## Required links to add before submission
 
-- Public code repository: `ADD_GITHUB_URL`
+- Public code repository: https://github.com/battinisadwik208-coder/followthrough
 - Demo video (public YouTube/Vimeo): `ADD_VIDEO_URL`
 - Optional live demo: `ADD_LIVE_DEMO_URL`
