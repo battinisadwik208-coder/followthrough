@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Brand refresh + landing page for a boutique coffee roaster",
+    "summary": "Redesigned brand identity (logo, color system, packaging) and built a conversion-focused landing page. Delivered in 3 weeks, increased online order signups by 40%.",
+    "tags": ["branding", "web design", "landing page", "small business", "e-commerce"]
+  },
+  {
+    "title": "Internal dashboard for a logistics startup",
+    "summary": "Built a React + Node.js dashboard to track shipment status across 3 carriers, replacing a spreadsheet-based workflow. Cut manual reporting time from 4 hours/week to near zero.",
+    "tags": ["dashboard", "react", "node.js", "internal tools", "logistics"]
+  },
+  {
+    "title": "API integration for a subscription box service",
+    "summary": "Connected Stripe billing, ShipStation fulfillment, and a custom inventory system into one automated pipeline. Reduced fulfillment errors by 60%.",
+    "tags": ["api integration", "stripe", "automation", "e-commerce", "backend"]
+  },
+  {
+    "title": "Marketing site rebuild for a B2B SaaS company",
+    "summary": "Migrated a legacy WordPress marketing site to a fast, modern static site (Next.js). Improved page load speed by 3x and lifted organic signups 25%.",
+    "tags": ["web design", "saas", "next.js", "marketing site", "performance"]
+  },
+  {
+    "title": "Mobile app MVP for a fitness coaching startup",
+    "summary": "Designed and built an MVP iOS/Android app (React Native) for 1:1 coaching check-ins and progress tracking. Used by 200+ beta users within the first month.",
+    "tags": ["mobile app", "react native", "mvp", "fitness", "startup"]
+  },
+  {
+    "title": "Data pipeline + reporting for a nonprofit",
+    "summary": "Built an automated ETL pipeline pulling donor data from 3 sources into a single reporting dashboard, saving the ops team ~10 hours/month of manual reconciliation.",
+    "tags": ["data pipeline", "etl", "reporting", "nonprofit", "automation"]
+  }
+]
