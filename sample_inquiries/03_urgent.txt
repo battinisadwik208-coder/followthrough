@@ -1,0 +1,13 @@
+Subject: URGENT - need help this week
+
+Hi,
+
+Our fulfillment system broke and we're manually tracking orders in a
+spreadsheet right now, which is a disaster. We need someone to build
+an integration between our Stripe checkout and our shipping provider
+ASAP — ideally we'd have something working within a week.
+
+We can move fast on our end. What's your availability like THIS week?
+Please call or email as soon as you can.
+
+- Marcus, ops lead at Loopbox
